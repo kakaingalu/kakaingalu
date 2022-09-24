@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **josephngalu96@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17aaZ0d2PWx_7HMc0BnDMsvIunDcZVzs4DdE_0s367mA/edit?usp=sharing || https://drive.google.com/file/d/0B8hEhIieWFJIMGpXUGhKRklNUFJWcEFXY1ZUYjc1R0MzYkxz/view?usp=sharing&resourcekey=0-sOoybRLxwsN1IECEZlq0Lw](https://docs.google.com/document/d/17aaZ0d2PWx_7HMc0BnDMsvIunDcZVzs4DdE_0s367mA/edit?usp=sharing || https://drive.google.com/file/d/0B8hEhIieWFJIMGpXUGhKRklNUFJWcEFXY1ZUYjc1R0MzYkxz/view?usp=sharing&resourcekey=0-sOoybRLxwsN1IECEZlq0Lw)
+- 📄 Know about my experiences [https://docs.google.com/document/d/17aaZ0d2PWx_7HMc0BnDMsvIunDcZVzs4DdE_0s367mA/edit?usp=sharing || https://drive.google.com/file/d/0B8hEhIieWFJIMGpXUGhKRklNUFJWcEFXY1ZUYjc1R0MzYkxz/view?usp=sharing&resourcekey=0-sOoybRLxwsN1IECEZlq0Lw
 
 - ⚡ Fun fact **i think am funny**
 
