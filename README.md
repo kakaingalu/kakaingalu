@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Kakai</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
- <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/" width="100"/>
+ <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761192927003919d9c4373e0d62ba8e0efd3384490b8&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephkakai&label=Profile%20views&color=0e75b6&style=flat" alt="josephkakai" /> </p>
