@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/josephkakai?tab=repositories](https://github.com/josephkakai?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/wantonraven?tab=repositories](https://github.com/josephkakai?tab=repositories)
 
 - 📫 How to reach me **josephngalu96@gmail.com**
 
