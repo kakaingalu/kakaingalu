@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wantonraven?tab=repositories](https://github.com/wantonraven?tab=repositories)
-
 - 📫 How to reach me **josephngalu96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
