@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/josephkakai?tab=repositories](https://github.com/josephkakai?tab=repositories)
 
-- 💬 Ask me about 
-
 - 📫 How to reach me **josephngalu96@gmail.com**
 
 - ⚡ Fun fact **i think am funny**
