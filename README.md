@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **josephngalu96@gmail.com**
 
-- ⚡ Fun fact **i think am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <button></button>
