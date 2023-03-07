@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wanton Raven </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
+
 <div id="header" align="center">
  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761192927003919d9c4373e0d62ba8e0efd3384490b8&rid=giphy.gif&ct=g" width="400"/>
 </div>
