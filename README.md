@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wanton Raven </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
+
 <div align=center>
    <a href="https://github.com/wantonraven">
    <img height=50 width=100% src="static/divider.gif">
