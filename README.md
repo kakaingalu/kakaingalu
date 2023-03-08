@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **Software Engineering at ALX**
 - 💼 any freelance work? do reach, [email](mailto:josephngalu96@gmail.com) :)
 ### You can reach me via:
-<a href="https://discord.gg/wantonraven#2860">
+<a href="https://discord.gg/wantonraven">
   <img align="left" alt="Wanton's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/wantonraven">
