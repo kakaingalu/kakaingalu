@@ -23,7 +23,7 @@
   - <a href="https://twitter.com/wantonraven">
    <img align="left" alt="Wanton Raven | Twitter" width="22px"             src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> 
-   - <a href="https://www.linkedin.com/in/joseph-kakai-041a96140//">
+   <a href="https://www.linkedin.com/in/joseph-kakai-041a96140//">
   <img align="left" alt="Joseph's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
