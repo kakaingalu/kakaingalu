@@ -23,41 +23,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   22 hrs 14 mins  ██████████████████▓░░░░░░   74.17 %
-JavaScript   6 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-```
-
-<!--END_SECTION:waka-->
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
 
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wantonraven&show_icons=true&theme=gotham" alt="wantonraven" />
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wantonraven&theme=github_dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wantonraven&theme=holi-theme&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wantonraven&theme=github_dark)
