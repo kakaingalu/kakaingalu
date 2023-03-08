@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wanton Raven </h1>
+<img height=50 width=100% src="static/divider.gif">
 
 <div align=center>
    <a href="https://github.com/wantonraven">
