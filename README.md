@@ -5,7 +5,7 @@
 
 <div align=center>
    <a href="https://github.com/wantonraven">
-   <img height=50 width=100% src="static/divider.gif">
+   
    </a>
 </div>
 <div id="header" align="center">
