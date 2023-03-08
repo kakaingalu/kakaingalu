@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wanton Raven 
-<img height=50 width=100% src="static/divider.gif">
 </h1>
 
 
@@ -19,6 +18,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
+- 💼 any freelance work? do reach, [email](mailto:josephngalu96@gmail.com) :)
 
 - 📫 How to reach me **josephngalu96@gmail.com**
 
