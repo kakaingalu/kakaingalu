@@ -20,8 +20,10 @@
 - 🌱 I’m currently learning **Software Engineering at ALX**
 - 💼 any freelance work? do reach, [email](mailto:josephngalu96@gmail.com) :)
 - You can reach me via:
-* <a href="https://twitter.com/wantonraven">
+   * <a href="https://twitter.com/wantonraven">
   <img align="left" alt="Wanton Raven | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>, <a href="https://www.linkedin.com/in/joseph-kakai-041a96140//">
+  <img align="left" alt="Joseph's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
