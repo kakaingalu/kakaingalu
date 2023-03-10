@@ -20,6 +20,7 @@
 
 ### 😂 Random Dev Meme
 <img src="https://imgflip.com/i/7dywci" width="512px"/>
+<a href="https://imgflip.com/i/7dywci"><img src="https://i.imgflip.com/7dywci.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wantonraven&icon=0&color=0)](https://visitcount.itsvg.in)
