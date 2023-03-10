@@ -19,8 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://imgflip.com/i/7dywci" width="512px"/>
-<a href="https://imgflip.com/i/7dywci"><img src="https://i.imgflip.com/7dywci.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<img src="https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.gif?layout=top"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wantonraven&icon=0&color=0)](https://visitcount.itsvg.in)
