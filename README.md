@@ -13,32 +13,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=wantonraven&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=wantonraven)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+![](https://gtce.itsvg.in/api?username=wantonraven)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.gif?layout=top"/>
-<script>
-  const data = null;
-
-const xhr = new XMLHttpRequest();
-xhr.withCredentials = true;
-
-xhr.addEventListener("readystatechange", function () {
-	if (this.readyState === this.DONE) {
-		console.log(this.responseText);
-	}
-});
-
-xhr.open("GET", "https://programmer-humor.p.rapidapi.com/api/reddit");
-xhr.setRequestHeader("X-RapidAPI-Key", "f00c8826b1mshecc03fdb46dc154p16d25djsn8a8b8e58c507");
-xhr.setRequestHeader("X-RapidAPI-Host", "programmer-humor.p.rapidapi.com");
-
-xhr.send(data);
-</script>
-  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wantonraven&icon=0&color=0)](https://visitcount.itsvg.in)
