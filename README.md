@@ -20,7 +20,25 @@
 
 ### 😂 Random Dev Meme
 <img src="https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.gif?layout=top"/>
-import * as name from "req";
+<script>
+  const data = null;
+
+const xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
+
+xhr.addEventListener("readystatechange", function () {
+	if (this.readyState === this.DONE) {
+		console.log(this.responseText);
+	}
+});
+
+xhr.open("GET", "https://programmer-humor.p.rapidapi.com/api/reddit");
+xhr.setRequestHeader("X-RapidAPI-Key", "f00c8826b1mshecc03fdb46dc154p16d25djsn8a8b8e58c507");
+xhr.setRequestHeader("X-RapidAPI-Host", "programmer-humor.p.rapidapi.com");
+
+xhr.send(data);
+</script>
+  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wantonraven&icon=0&color=0)](https://visitcount.itsvg.in)
