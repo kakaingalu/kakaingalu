@@ -25,7 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=wantonraven&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/josephngalu](https://www.paypal.com/donate/?hosted_button_id=6LEX9GDRBR6JQ)) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([wanton raven](https://www.paypal.com/donate/?hosted_button_id=6LEX9GDRBR6JQ)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
