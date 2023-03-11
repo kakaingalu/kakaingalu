@@ -30,6 +30,7 @@
 <img src="https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.gif?layout=top"/>
 
 ---
+<!--Joseph Kakai(aka-Wanton Raven)-->
 [![](https://visitcount.itsvg.in/api?id=wantonraven&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
