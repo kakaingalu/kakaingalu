@@ -26,6 +26,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
+<!--Joseph Kakai(aka-Wanton Raven)-->
 <img src="https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.gif?layout=top"/>
 
 ---
