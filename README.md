@@ -22,6 +22,7 @@
 [![](https://gtce.itsvg.in/api?username=wantonraven)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
+<!--Joseph Kakai(aka-Wanton Raven)-->
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
