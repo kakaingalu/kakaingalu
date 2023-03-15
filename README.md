@@ -9,7 +9,7 @@
 <!--By Joseph Kakai(aka-Wanton Raven)-->
 # 📊 GitHub Stats:
 <!--By Joseph Kakai(aka-Wanton Raven)-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wantonraven&theme=github_dark)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wantonraven&show_icons=true&theme=gotham" alt="wantonraven" />
 
 ![](https://github-readme-stats.vercel.app/api?username=wantonraven&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wantonraven&theme=dark&hide_border=false)<br/>
