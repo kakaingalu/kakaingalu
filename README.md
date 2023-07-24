@@ -42,5 +42,6 @@
   <!--By Joseph Kakai(aka-Wanton Raven)-->
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=6LEX9GDRBR6JQ)
 <!--By Joseph Kakai(aka-Wanton Raven)-->
-  
+
+<a href="https://app.daily.dev/Kakai"><img src="https://api.daily.dev/devcards/8d6cd6a3cc414f469727f44dd06ef31c.png?r=tag" width="400" alt="Wanton's Dev Card"/></a>
 Proudly created by [Wanton Raven](https://github.com/wantonraven)
